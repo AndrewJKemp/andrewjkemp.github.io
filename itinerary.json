@@ -1,0 +1,39 @@
+{
+    "itinerary": [
+        {
+            "id": 0,
+            "name": "Southampton",
+            "date": "2023-05-01"
+        },
+        {
+            "id": 1,
+            "name": "Madeira",
+            "date": "2023-05-05"
+        },
+        {
+            "id": 2,
+            "name": "Tenerife",
+            "date": "2023-05-06"
+        },
+        {
+            "id": 3,
+            "name": "Gran Canaria",
+            "date": "2023-05-07"
+        },
+        {
+            "id": 4,
+            "name": "Lanzarote",
+            "date": "2023-05-08"
+        },
+        {
+            "id": 5,
+            "name": "Lisbon",
+            "date": "2023-06-01"
+        },
+        {
+            "id": 6,
+            "name": "Southampton",
+            "date": "2023-06-04"
+        }
+    ]
+}
